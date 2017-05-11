@@ -1,0 +1,27 @@
+
+@media(min-width: 360px){
+  .home{
+    background-image: url(..assets/img/fondo-1.jpg);
+    background-size: cover;
+  }
+}
+@media (min-width: 480px) {
+  .home{
+    background-image: url(../img/fondo-1.jpg);
+    background-size: cover;
+  }
+}
+@media (min-width: 768px) {
+  .home{
+    background-image: url(../img/fondo-1.jpg);
+    background-size: cover;
+
+  }
+}
+@media (min-width: 1024px) {
+  .home{
+    background-image: url(../img/fondo-1.jpg);
+    background-size: cover;
+
+  }
+}
